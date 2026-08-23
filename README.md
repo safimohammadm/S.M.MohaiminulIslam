@@ -6,7 +6,6 @@
   <a href="https://southasianuniversity.academia.edu/SMMohaiminulIslam"><img src="https://img.shields.io/badge/Academia.edu-41454A?style=flat&logo=academia&logoColor=white" alt="Academia.edu"/></a>
   <a href="https://scholar.google.com/citations?user=sFa-BMIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
 </p>
----
  
 ### 👨‍💼 About Me
  
