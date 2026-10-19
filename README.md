@@ -54,7 +54,7 @@ With 15+ years of experience across government service, engineering, academia, I
  
 - ✅ Google Data Analytics Professional Certificate [coursera.org](https://www.coursera.org/account/accomplishments/specialization/certificate/7I0ZHNSJFCRQ)
 - ✅ Google UX Design Professional Certificate [coursera.org](https://www.coursera.org/account/accomplishments/specialization/certificate/EZSM8JJQ93CQ)
-- ✅ Google IT Support Professional Certificate [coursera.org](https://coursera.org/share/fad45e6756b2130a830e8a8d0f0ec1ba)
+- ✅ Google IT Support Professional Certificate [coursera.org](https://www.coursera.org/account/accomplishments/specialization/certificate/4YU6DPC2XO0C)
 ---
  
 ### 🌱 Currently Exploring
